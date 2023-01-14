@@ -1,5 +1,6 @@
 [package]
 name = "refrs-core"
+description = "core logic for refrs, the academic referencing system written in rust"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
